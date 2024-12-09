@@ -4,10 +4,9 @@
   "description": "gestion de antecedentes de ciudadanos",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js", 
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
-  "author": "nicolasM",
+  "author": "DanielSalaz",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
